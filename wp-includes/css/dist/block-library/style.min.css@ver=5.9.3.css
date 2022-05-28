@@ -43,10 +43,10 @@
   .big-info {
     top: -36px;
     position: relative;
-    z-index: 2;
     margin-bottom: 28px;
     margin-left: auto;
     margin-right: auto;
+    vertical-align: bottom;
 }
 .big-info__inner {
     background: url("https://dogelonmars.com/img/big-info/background.png"), #141825;
